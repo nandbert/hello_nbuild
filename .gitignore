@@ -1,0 +1,7 @@
+.*.t
+.*.d
+*.o
+*.a
+*.elf
+TAGS
+.sub.el
