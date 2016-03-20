@@ -11,6 +11,7 @@
 #  LANGUAGE
 #    make
 #
+NBUILD =	../../build/nbuild
 
 GNU_APP =	hello
 GNU_APP_SRCS =	hello.c
